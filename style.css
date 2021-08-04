@@ -1,0 +1,48 @@
+
+body {
+
+    width: 80%;
+    margin-left: 2em;
+  
+    
+}
+
+
+
+
+
+.EachContainer {
+
+    display: flex;
+    width: 80%;
+}
+
+
+.imageDispliay {
+
+    float: left;
+    margin-bottom: 9em;
+    
+}
+
+.textdisplay {
+
+    margin-right: 2em;
+    
+}
+.screenDisplay {
+
+   
+
+    margin-left: 10em;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+
+
+
+
