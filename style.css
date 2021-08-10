@@ -1,27 +1,26 @@
-
 body {
 
     width: 80%;
     margin-left: 2em;
-  
-    
+    background-image: url(https://media.2oceansvibe.com/wp-content/uploads/2021/05/table-mountain-crime.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+
 }
 
 
 
 
 
-.EachContainer {
-
-    display: flex;
-    width: 80%;
-}
 
 
 .imageDispliay {
 
     float: left;
     margin-bottom: 9em;
+  
     
 }
 
@@ -41,8 +40,27 @@ table, th, td {
     border: 1px solid black;
 }
 
+.textWrap {
+
+    word-wrap: break-word;
+}
+
+@media screen and (min-width: 800px) {
+
+            
+        .EachContainer {
+
+            display: flex;
+            width: auto;
+            
+        }
 
 
+ 
+
+
+
+}
 
 
 
