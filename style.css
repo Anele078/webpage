@@ -8,7 +8,12 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 
+    font-size: medium;
     width: 90%;
+    margin-left: 20em;
+    font-family: Arial, Helvetica, sans-serif;
+
+
 
     
 
@@ -74,6 +79,12 @@ table, th, td {
     
 
     margin-top: 4em;
+    margin-left: 10em;
+}
+
+.size {
+
+    width: 70%;
 }
 
 
